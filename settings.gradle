@@ -1,0 +1,2 @@
+rootProject.name = "NagwaTask"
+include ':app'
